@@ -1,2 +1,2 @@
-# z2p
+# zero2prod
 Zero To Production In Rust
